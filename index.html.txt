@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>เว็บไซต์แนะนำตัวเอง - นิสิตวิศวกรรมศาสตร์</title>
+    <title>วรวุฒิ แสนเพียง - นิสิตวิศวกรรมศาสตร์</title>
     <style>
         * {
             box-sizing: border-box;
@@ -93,8 +93,8 @@
     <header>
         <!-- ใช้ไฟล์รูปภาพที่แนบมา -->
         <img src="1000000088.JPG" alt="รูปโปรไฟล์ วรวุฒิ แสนเพียง" class="profile-img">
-<h1>วรวุฒิ แสนเพียง</h1>
-<div class="subtitle">นิสิตคณะวิศวกรรมศาสตร์ | Engineering Student</div>
+        <h1>วรวุฒิ แสนเพียง</h1>
+        <div class="subtitle">นิสิตคณะวิศวกรรมศาสตร์ | Engineering Student</div>
     </header>
 
 
@@ -147,4 +147,3 @@
 
 </body>
 </html>
-
