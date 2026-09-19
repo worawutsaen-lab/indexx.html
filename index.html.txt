@@ -92,9 +92,9 @@
 
     <header>
         <!-- ใช้ไฟล์รูปภาพที่แนบมา -->
-        <img src="1000000088.jpg" alt="รูปโปรไฟล์นิสิต" class="profile-img">
-        <h1>[ใส่ชื่อ-นามสกุลของคุณ]</h1>
-        <div class="subtitle">นิสิตคณะวิศวกรรมศาสตร์ | Engineering Student</div>
+        <img src="1000000088.JPG" alt="รูปโปรไฟล์ วรวุฒิ แสนเพียง" class="profile-img">
+<h1>วรวุฒิ แสนเพียง</h1>
+<div class="subtitle">นิสิตคณะวิศวกรรมศาสตร์ | Engineering Student</div>
     </header>
 
 
